@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep Purple and Indigo Theme -->
+    <color name="primary">#673AB7</color>
+    <color name="primary_dark">#512DA8</color>
+    <color name="accent">#CDDC39</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_main">#212121</color>
+</resources>
